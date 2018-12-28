@@ -1,4 +1,4 @@
-# Coding Interview Shit
+# Sibal Coding Interview
 
 > 해당 Repository는 [Coding Interview University](https://github.com/jwasham/coding-interview-university)에 감명받아 시작하게 되었습니다.
 >
