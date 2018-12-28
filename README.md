@@ -163,7 +163,7 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 - 자바엔 없지만, 조합 문제에서 사용할 수 있는 유용한 메소드는?
 - 포인터 사용 방법
 
-</deteails>
+</details>
 
 <details><summary>나만의 TIP?(자습, 문제풀이, 오프스터디 등)</summary>
 </details>
@@ -182,24 +182,28 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/line.md)
 
 </details>
+
 ##### ㅇ
 <details><summary>우아한형제</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/woowa-brothers.md)
 
 </details>
+
 ##### ㅅ
 <details><summary>삼성</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/samsung.md)
 
 </details>
+
 ##### ㅋ
 <details><summary>카카오</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/kakao.md)
 
 </details>
+
 ##### N
 <details><summary>NHN</summary>
  
