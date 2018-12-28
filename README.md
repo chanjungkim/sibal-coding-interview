@@ -7,16 +7,19 @@
 > *포기만 안하고 계속 하면, 언젠간 이룰 수 있다!*
 
 <details>
-<summary>Translations</summary>
- 
-- [Korean](translations/README-ko.md)
+<summary>프로그래밍 언어 선택</summary>
+
+- [Javscript](langs/README-js.md)
+- [Python](langs/README-py.md)
+- [C](langs/README-c.md)
+- [C++](langs/README-cpp.md)
 
 </details>
 
 <details>
-<summary>Translations in progress</summary>
+<summary>준비중</summary>
  
-- [English(한국어)](https://github.com/chanjungkim/coding-interview-shit/issues/1)
+- [English](https://github.com/chanjungkim/coding-interview-shit/issues/1)
 
 </details>
 
