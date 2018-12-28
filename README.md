@@ -5,23 +5,30 @@
 > *포기만 안하고 계속 하면, 언젠간 이룰 수 있다!*
 
 <details>
-<summary>Translations:</summary>
+<summary>Translations</summary>
+ 
 - [Korean](translations/README-ko.md)
+
 </details>
 
 <details>
-<summary>Translations in progress:</summary>
+<summary>Translations in progress</summary>
+ 
 - [English(한국어)](https://github.com/chanjungkim/coding-interview-shit/issues/1)
+
 </details>
 
 <details>
-<summary>스터디방:</summary>
+<summary>스터디방</summary>
+ 
 - [알고리즘 자습방](https://open.kakao.com/o/gNPnHZq)
 - [자바/코틀린 알고리즘 자습방](https://open.kakao.com/o/gK0gr6T)
+
 </details>
 
 <details>
-<summary>문제풀이 사이트:</summary>
+<summary>문제풀이 사이트</summary>
+ 
 - [백준(BOJ)](http://boj.kr)
 > [알고리즘 자습방 그룹](https://www.acmicpc.net/group/2657)
 > 국내 가장 인기 있는 사이트.
@@ -35,10 +42,12 @@
 > 프로그래머스 - https://programmers.co.kr
 > 카카오톡 코테는 여기서 봄.
 > 예전 카카오톡 코테를 풀어볼 수 있음. 다른 문제도 있음.
+
 </details>
 
 <details>
 <summary>읽기 자료/참고 자료 추천:</summary>
+ 
 ## 블로그
 - [박트리님의 ‘알고리즘 공부, 어떻게 해야하나요’](http://baactree.tistory.com/52)
 ## 유튜브
@@ -50,10 +59,12 @@
 - [알고리즘 트레이닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110847940)
 ## 기타
 - [시각화](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 </details>
 
 <details>
  <summary>기본 자바 문제(Collections 위주)</summary>
+ 
 ### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 Thread나 네트워크 등의 PS(Problem Solving)와 관련 없는 내용은 배제해주시기 바랍니다.
 - equals() 와 ==의 차이
 - sort() 사용법
@@ -86,6 +97,7 @@
 
 <details>
  <summary>기본 알고리즘 문제</summary>
+ 
 - 그리디 알고리즘(욕심쟁이 기법, Greedy Algorithm)이란?
 - 분할 정복(Divide and Conquer)이란?
 - 완전 탐색(Brute Force)이란?
@@ -114,10 +126,12 @@
 - Bottom-up은 뭐고 Top-down은 뭘까? 어느 알고리즘에서 사용되는 말인가? 어떻게 구현하는 가?
 - 우선순위 큐(PQ, Priority Queue)는 어떤 애고 어떤 유형에서 유용하게 쓰이는가?
 - C++의 pair는 어떻게 자바로 구현하는가?
+ 
 <details>
  
  
 <details><summary>FAQ</summary>
+ 
 1. 
 Q: 취업할 때 자격증, 영어 중요해요?.
 A: 자격증은 정보처리기사 외엔 메리트 없고 영어성적은 있으면 좋지만 엄청 중요한 거 같진 않습니다. 중견 기업 이하에서는 자격증이 아무것도 없어도 포트폴리오가 뛰어나서 합격한다던가 삼성 같은 대기업에선 평균 3학점 이하인데도 PS가 뛰어나 입사한 케이스도 있습니다. 하지만, 자격증을 제외한 것이 동일 스펙이라면 자격증이 있는게 나을 것입니다.
@@ -125,41 +139,56 @@ A: 자격증은 정보처리기사 외엔 메리트 없고 영어성적은 있�
 2.
 Q: 알고리즘 어떻게 시작해요? 
 A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
+
 </details>
 
 <details><summary>C++에 대한 이해(사용방법의 차이)</summary>
+ 
 - using namespace std; 는 무엇?
 - 입출력 방법?
 - 구조체 생성 및 사용법? 
 - 자바엔 없지만, 조합 문제에서 사용할 수 있는 유용한 메소드는?
 - 포인터 사용 방법
+
 </deteails>
 
 <details><summary>나만의 TIP?(자습, 문제풀이, 오프스터디 등)</summary>
 </details>
 
 <details><summary>스터디 하실분!?</summary>
+ 
 - [오픈톡링크](https://open.kakao.com/o/xxxx)
+
 </details>
 
 ## 코테/면접 후기(가나다ABC순)
 ### ㄹ
 <details><summary>라인</summary>
+ 
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/line.md)
+
 </details>
 ### ㅇ
 <details><summary>우아한형제</summary>
+ 
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/woowa-brothers.md)
+
 </details>
 ### ㅅ
 <details><summary>삼성</summary>
+ 
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/samsung.md)
+
 </details>
 ### ㅋ
 <details><summary>카카오</summary>
+ 
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/kakao.md)
+
 </details>
 ### N
 <details><summary>NHN</summary>
+ 
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/nhn.md)
+
 </details>
