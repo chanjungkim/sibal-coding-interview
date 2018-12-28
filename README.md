@@ -9,10 +9,10 @@
 <details>
 <summary>프로그래밍 언어 선택</summary>
 
-- [Javscript](langs/README-js.md)
-- [Python](langs/README-py.md)
-- [C](langs/README-c.md)
-- [C++](langs/README-cpp.md)
+- [Javscript](README-js.md)
+- [Python](README-py.md)
+- [C++](README-cpp.md)
+- [C](README-c.md)
 
 </details>
 
