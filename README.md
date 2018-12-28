@@ -140,7 +140,7 @@
 - 우선순위 큐(PQ, Priority Queue)는 어떤 애고 어떤 유형에서 유용하게 쓰이는가?
 - C++의 pair는 어떻게 자바로 구현하는가?
  
-<details>
+</details>
  
  
 <details><summary>FAQ</summary>
@@ -175,6 +175,7 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 </details>
 
 ## 코테/면접 후기(가나다ABC순)
+
 ##### ㄹ
 <details><summary>라인</summary>
  
