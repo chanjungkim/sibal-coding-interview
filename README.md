@@ -76,6 +76,15 @@
 
 </details>
 
+<details><summary>기본 자바(PS와 큰 관련없는 Java 문제)</summary>
+
+###### ‘코딩 테스트’에 관련된 문제들은 다른 카테고리에 작성해주시기 바랍니다.
+- 접근제어자 접근범위
+- 인터페이스, 추상클래스 차이
+- 예외처리
+- 생성자의 종류
+
+</details>
 <details>
  <summary>기본 자바 문제(Collections 위주)</summary>
  
@@ -90,11 +99,6 @@
 - for문의 종류는?
 - toString()은 무엇을 하는 애인가?
 
-### 그 밖에 PS와 관련없는 Java 문제:
-- 접근제어자 접근범위
-- 인터페이스, 추상클래스 차이
-- 예외처리
-- 생성자의 종류
 </details>
 
 <details>
