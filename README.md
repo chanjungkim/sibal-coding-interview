@@ -1,7 +1,9 @@
 # Coding Interview Shit
 
 > 해당 Repository는 [Coding Interview University](https://github.com/jwasham/coding-interview-university)에 감명받아 시작하게 되었습니다.
+>
 > 개인적인 것들을 정리하겠지만, 다른 사람들도 볼 수 있도록 한국인 대상으로 작성해보려고 합니다.
+>
 > *포기만 안하고 계속 하면, 언젠간 이룰 수 있다!*
 
 <details>
@@ -31,16 +33,25 @@
  
 - [백준(BOJ)](http://boj.kr)
 > [알고리즘 자습방 그룹](https://www.acmicpc.net/group/2657)
+>
 > 국내 가장 인기 있는 사이트.
+>
 > 11월 11일 빼빼로 이벤트함.
+>
 > Code.plus에서 온라인 강의 들을 수 있음(3만원~10만원 꼴. 할인, 패키지도 있음. 내용 괜찮음.)
+>
 > 각 강의 마다 맛보기 강의 들을 수 있음.
+>
 > 유투브 채널있음(참고 자료 확인)
 - [SW Expert Academy(SWEA, Samsung)](https://swexpertacademy.com)
 > SW Test 볼 수 있음(A, B, C형. 무료.)
+>
 > 무료 강의 있음.
+>
 > 프로그래머스 - https://programmers.co.kr
+>
 > 카카오톡 코테는 여기서 봄.
+>
 > 예전 카카오톡 코테를 풀어볼 수 있음. 다른 문제도 있음.
 
 </details>
@@ -65,7 +76,7 @@
 <details>
  <summary>기본 자바 문제(Collections 위주)</summary>
  
-### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 Thread나 네트워크 등의 PS(Problem Solving)와 관련 없는 내용은 배제해주시기 바랍니다.
+###### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 Thread나 네트워크 등의 PS(Problem Solving)와 관련 없는 내용은 배제해주시기 바랍니다.
 - equals() 와 ==의 차이
 - sort() 사용법
 - 중복 체크?
@@ -85,7 +96,7 @@
 
 <details>
  <summary>기본 자료구조 문제</summary>
-※ 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 관련 없는 내용은 배제해주시기 바랍니다.
+###### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 관련 없는 내용은 배제해주시기 바랍니다.
 - ArrayList와 LinkedList 차이.
 - LinkedList의 노드는 어떻게 구성되어있나? 추가, 삭제, 검색에서 어떻게 동작하게 되나?
 - Hash의 시간복잡도는?
@@ -162,31 +173,31 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 </details>
 
 ## 코테/면접 후기(가나다ABC순)
-### ㄹ
+##### ㄹ
 <details><summary>라인</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/line.md)
 
 </details>
-### ㅇ
+##### ㅇ
 <details><summary>우아한형제</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/woowa-brothers.md)
 
 </details>
-### ㅅ
+##### ㅅ
 <details><summary>삼성</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/samsung.md)
 
 </details>
-### ㅋ
+##### ㅋ
 <details><summary>카카오</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/kakao.md)
 
 </details>
-### N
+##### N
 <details><summary>NHN</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/nhn.md)
