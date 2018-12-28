@@ -174,7 +174,7 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 
 </details>
 
-## 코테/면접 후기(가나다ABC순)
+<details><summary>코테/면접 후기(가나다ABC순)</summary>
 
 ##### ㄹ
 <details><summary>라인</summary>
@@ -208,5 +208,7 @@ A: 참고 자료에서 박트리님의 블로그를 확인해보세요.
 <details><summary>NHN</summary>
  
 - [닉네임 or 이메일 or 아무거나: 내용](career/review/nhn.md)
+
+</details>
 
 </details>
