@@ -78,8 +78,6 @@
 
 <details>
  <summary>기본 자바스크립트 문제</summary>
- 
-###### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 Thread나 네트워크 등의 PS(Problem Solving)와 관련 없는 내용은 배제해주시기 바랍니다.
 - == 와 ===의 차이
 - for문의 종류는?
 - var, const, val의 차이
