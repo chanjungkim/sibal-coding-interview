@@ -76,28 +76,14 @@
 
 </details>
 
-<details><summary>기본 자바(PS와 큰 관련없는 Java 문제)</summary>
-
-###### ‘코딩 테스트’에 관련된 문제들은 다른 카테고리에 작성해주시기 바랍니다.
-- 접근제어자 접근범위
-- 인터페이스, 추상클래스 차이
-- 예외처리
-- 생성자의 종류
-
-</details>
 <details>
- <summary>기본 자바 문제(Collections 위주)</summary>
+ <summary>기본 자바스크립트 문제</summary>
  
 ###### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 Thread나 네트워크 등의 PS(Problem Solving)와 관련 없는 내용은 배제해주시기 바랍니다.
-- equals() 와 ==의 차이
-- sort() 사용법
-- 중복 체크?
-- 순서 유무?
-- imprements 와 extends의 차이
-- ArrayList<Integer>처럼 <>안에 넣을 수 있는 것은? 무엇만 가능한가?
-- 가변인자란?
+- == 와 ===의 차이
 - for문의 종류는?
-- toString()은 무엇을 하는 애인가?
+- var, const, val의 차이
+- [프론트엔드 면접 질문](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 
 </details>
 
