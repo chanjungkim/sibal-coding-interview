@@ -83,6 +83,10 @@
 - == 와 ===의 차이
 - for문의 종류는?
 - var, const, val의 차이
+- JSON이란?
+- 동기 vs 비동기
+- Javascript 동작 원리(Call Stack, 이벤트 루프, Task Queue 등)
+- 호이스팅이란? 그로인해 발생하는 문제점은?
 - [프론트엔드 개발자 인터뷰 후기 면접 질문 정리 작성 중](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 
 </details>
@@ -91,7 +95,7 @@
  <summary>기본 자료구조 문제</summary>
  
 ###### 아래의 문제는 ‘코딩 테스트’에 관련된 문제이므로 관련 없는 내용은 배제해주시기 바랍니다.
-- ArrayList와 LinkedList 차이.
+- array와 list 차이.
 - LinkedList의 노드는 어떻게 구성되어있나? 추가, 삭제, 검색에서 어떻게 동작하게 되나?
 - Hash의 시간복잡도는?
 - 속도가 가장 빠른 Sorting 방법은? 그리고 그 시간 복잡도는?
@@ -123,11 +127,10 @@
 - GCD와 LCM는 무엇이며 어떻게 구하는가?
 - 등차수열과 등비수열에서 수열의 합은 어떻게 구하는가?
 - 알파벳 갯수는 총 몇 개이며, ASCII코드 중 a와 z 그리고 A와 Z를 숫자로 나타내면 얼마일까? 
-- String을 더할 때 빠르게 하는 방법은 무엇일까?
 - 입력과 출력이 많을 경우 입출력 방법 중 무엇을 사용하면 빠를까? 
-- 10진수의 숫자를 Binary인 String으로 표현하려면 어떻게 해야할까?
-- String을 index에 따라 어떻게 쪼갤 수 있을까?
-- String을 규칙에 따라(쉼표나 공백 등)으로 나눠 배열에 담을 수 있을까?
+- 10진수의 숫자를 Binary인 string으로 표현하려면 어떻게 해야할까?
+- string을 index에 따라 어떻게 쪼갤 수 있을까?
+- string을 규칙에 따라(쉼표나 공백 등)으로 나눠 배열에 담을 수 있을까?
 - DP에서 쓰이는 것은 Memoryzation OR Memoization(r없음)? 왜 그리고 어떻게 사용하는 가?
 - Bottom-up은 뭐고 Top-down은 뭘까? 어느 알고리즘에서 사용되는 말인가? 어떻게 구현하는 가?
 - 우선순위 큐(PQ, Priority Queue)는 어떤 애고 어떤 유형에서 유용하게 쓰이는가?
