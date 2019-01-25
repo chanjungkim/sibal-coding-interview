@@ -151,22 +151,12 @@
 
 </details>
 
-<details><summary>C++에 대한 이해(사용방법의 차이)</summary>
- 
-- using namespace std; 는 무엇?
-- 입출력 방법?
-- 구조체 생성 및 사용법? 
-- 자바엔 없지만, 조합 문제에서 사용할 수 있는 유용한 메소드는?
-- 포인터 사용 방법
-
-</details>
-
 <details><summary>나만의 TIP?(자습, 문제풀이, 오프스터디 등)</summary>
 </details>
 
 <details><summary>스터디 하실분!?</summary>
  
-- [오픈톡링크](https://open.kakao.com/o/xxxx)
+- [Discord 채널](https://discord.gg/Uf3Nr3M)
 
 </details>
 
