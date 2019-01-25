@@ -179,7 +179,7 @@
 
 <details><summary>스터디 하실분!?</summary>
  
-- [오픈톡링크](https://open.kakao.com/o/xxxx)
+- [Discord 채널](https://discord.gg/Uf3Nr3M)
 
 </details>
 
