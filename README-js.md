@@ -78,6 +78,7 @@
 
 <details>
  <summary>기본 자바스크립트 문제</summary>
+ 
 - == 와 ===의 차이
 - for문의 종류는?
 - var, const, val의 차이
