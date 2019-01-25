@@ -133,7 +133,7 @@
 - DP에서 쓰이는 것은 Memoryzation OR Memoization(r없음)? 왜 그리고 어떻게 사용하는 가?
 - Bottom-up은 뭐고 Top-down은 뭘까? 어느 알고리즘에서 사용되는 말인가? 어떻게 구현하는 가?
 - 우선순위 큐(PQ, Priority Queue)는 어떤 애고 어떤 유형에서 유용하게 쓰이는가?
-- C++의 pair는 어떻게 자바로 구현하는가?
+- C++의 pair는 어떻게 자바스크립트로 구현하는가?
  
 </details>
  
