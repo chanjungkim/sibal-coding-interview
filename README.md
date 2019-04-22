@@ -29,7 +29,7 @@
 <summary>스터디방</summary>
  
 - [알고리즘 자습방](https://open.kakao.com/o/gNPnHZq)
-- [자바/코틀린 알고리즘 자습방](https://open.kakao.com/o/gK0gr6T)
+- [자바/코틀린/JS 알고리즘 자습방](https://open.kakao.com/o/gK0gr6T)
 
 </details>
 
