@@ -27,7 +27,7 @@
 <summary>스터디방</summary>
  
 - [알고리즘 자습방](https://open.kakao.com/o/gNPnHZq)
-- [자바/코틀린 알고리즘 자습방](https://open.kakao.com/o/gK0gr6T)
+- [자바/코틀린/JS 알고리즘 자습방](https://open.kakao.com/o/gK0gr6T)
 
 </details>
 
@@ -137,10 +137,31 @@
 - C++의 pair는 어떻게 자바스크립트로 구현하는가?
  
 </details>
- 
-<details>
- <summary>개발 문제</summary>
- 
+
+<details><summary> Node.js 문제 + α </summary>
+
+- [Node.js를 한 문장으로 정의한다면?]()
+- [Express란?]()
+- [nodemon과 pm2의 차이 및 사용방법]()
+- [REST api에 대해 설명하시오]()
+- [취약점 및 대처 방안]()
+- [도커란?]()
+- [nginx란?]()
+- [로드 밸런싱이란?]()
+- [Redux란?]()
+- [SPA란?]()
+- [PWA란?]()
+- [Azure, AWS, GCP란 무엇인가?]()
+- [IaaS, PaaS, SaaS에 대해 설명하시오]()
+- [Helmet이란?]()
+- [route란?]()
+- [request와 response란?]()
+- [npm이란?]()
+
+</details>
+
+<details><summary> Vue.js 문제</summary>
+
 - [Vue.js](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 
 </details>
