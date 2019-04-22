@@ -157,6 +157,7 @@
 - 4대 컴포넌트에 대해 설명하시오.
 - Thread 간 통신 방법
 - Looper란?
+- 커스텀뷰란? 커스텀뷰 만드는 방법
 - 생명 주기에 대해 설명하시오.
 - RecyclerView란? 사용 방법은?
 - Context란? 어떤 종류가 있는가?
@@ -166,6 +167,7 @@
 - 데이터 저장 방식 5가지 비교 - SQLite, Shared Preference, File, Property, Network
 - 명시적 인텐트 VS 암시적 인텐트
 - ANR이란?
+- Activity와 Fragment의 차이
 - Data Binding이란?
 - timeout 핸들링 방법
 - iOS와 차이점
