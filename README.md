@@ -154,30 +154,30 @@
 <details>
  <summary>안드로이드 문제</summary>
 
-- 4대 컴포넌트에 대해 설명하시오.
-- Thread 간 통신 방법
-- Looper란?
-- 커스텀뷰란? 커스텀뷰 만드는 방법
-- 생명 주기에 대해 설명하시오.
-- RecyclerView란? 사용 방법은?
-- Context란? 어떤 종류가 있는가?
-- AsyncTask 사용법
-- Thread와 Handler 차이
-- Serializable와 Parcelable 차이
-- 데이터 저장 방식 5가지 비교 - SQLite, Shared Preference, File, Property, Network
-- 명시적 인텐트 VS 암시적 인텐트
-- ANR이란?
-- Activity와 Fragment의 차이
-- Data Binding이란?
-- timeout 핸들링 방법
-- iOS와 차이점
-- MVC, MVP, MVVM 패턴에 대해 설명, 각 아키텍쳐에 대해 패키지 구성을 어떻게 하는가? 
-- 9-Patch란?
-- Job Scheduler란?
-- Work Manager란?
-- AAC의 종류와 각각에 대해 설명하시오.
-- Shared Preference 보안 이슈에 대해 설명 및 대처 방법
-- Serializa란 무엇인가? 종류는?
+- [4대 컴포넌트에 대해 설명하시오]()
+- [Thread 간 통신 방법]()
+- [Looper란?]()
+- [커스텀뷰란? 커스텀뷰 만드는 방법]()
+- [생명 주기에 대해 설명하시오.]()
+- [RecyclerView란? 사용 방법은?]()
+- [Context란? 어떤 종류가 있는가?]()
+- [AsyncTask 사용법]()
+- [Thread와 Handler 차이]()
+- [Serializable와 Parcelable 차이]()
+- [데이터 저장 방식 5가지 비교 - SQLite, Shared Preference, File, Property, Network]()
+- [명시적 인텐트 VS 암시적 인텐트]()
+- [ANR이란?]()
+- [Activity와 Fragment의 차이]()
+- [Data Binding이란?]()
+- [timeout 핸들링 방법]()
+- [iOS와 차이점]()
+- [MVC, MVP, MVVM 패턴에 대해 설명, 각 아키텍쳐에 대해 패키지 구성을 어떻게 하는가?]()
+- [9-Patch란?]()
+- [Job Scheduler란?]()
+- [Work Manager란?]()
+- [AAC의 종류와 각각에 대해 설명하시오]()
+- [Shared Preference 보안 이슈에 대해 설명 및 대처 방법]()
+- [Serializa란 무엇인가? 종류는?]()
 
 </details>
  
