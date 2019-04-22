@@ -138,6 +138,13 @@
  
 </details>
 
+<details><summary> 공통 문제 </summary>
+ 
+- [SPA란?]()
+- [PWA란?]()
+
+</details>
+
 <details><summary> Node.js 문제 + α </summary>
 
 - [Node.js를 한 문장으로 정의한다면?]()
@@ -149,20 +156,29 @@
 - [nginx란?]()
 - [로드 밸런싱이란?]()
 - [Redux란?]()
-- [SPA란?]()
-- [PWA란?]()
 - [Azure, AWS, GCP란 무엇인가?]()
 - [IaaS, PaaS, SaaS에 대해 설명하시오]()
 - [Helmet이란?]()
 - [route란?]()
 - [request와 response란?]()
 - [npm이란?]()
+- [환경변수란? 어떻게 적용하는가?]()
+- [http 상태코드 종류와 각각에 대한 상태에 대해 설명하시오]()
+- [템플릿이란?]()
 
 </details>
 
 <details><summary> Vue.js 문제</summary>
 
 - [Vue.js](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
+
+</details>
+
+<details><summary> React.js 문제</summary>
+
+- [cra란?]()
+- [디플로이 하는 방법?]()
+- [컴포넌트란?]()
 
 </details>
 
