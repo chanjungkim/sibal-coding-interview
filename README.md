@@ -19,6 +19,21 @@
 </details>
 
 <details>
+<summary>플랫폼 선택</summary>
+
+- [Android](README-android.md)
+- [iOS](README-ios.md)
+- [Flutter](README-flutter.md)
+- [React](README-react.md)
+- [React Native](README-rn.md)
+- [Node.js](README-nodejs.md)
+- [Django](README-django.md)
+- [Spring](README-spring.md)
+- [AWS](README-aws.md)
+ 
+</details>
+
+<details>
 <summary>준비중</summary>
  
 - [English](https://github.com/chanjungkim/coding-interview-shit/issues/1)
