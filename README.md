@@ -178,8 +178,8 @@
 - [Context란? 어떤 종류가 있는가?]()
 - [AsyncTask 사용법]()
 - [Thread와 Handler 차이]()
-- [Thread간 통신방법에 대해 설명하시오]
-- [Handler에 대해 설명하시오]
+- [Thread간 통신방법에 대해 설명하시오]()
+- [Handler에 대해 설명하시오]()
 - [Serializable와 Parcelable 차이]()
 - [데이터 저장 방식 5가지 비교 - SQLite, Shared Preference, File, Property, Network]()
 - [명시적 인텐트 VS 암시적 인텐트]()
