@@ -178,11 +178,14 @@
 - [Context란? 어떤 종류가 있는가?]()
 - [AsyncTask 사용법]()
 - [Thread와 Handler 차이]()
+- [Thread간 통신방법에 대해 설명하시오]
+- [Handler에 대해 설명하시오]
 - [Serializable와 Parcelable 차이]()
 - [데이터 저장 방식 5가지 비교 - SQLite, Shared Preference, File, Property, Network]()
 - [명시적 인텐트 VS 암시적 인텐트]()
 - [ANR이란?]()
 - [Activity와 Fragment의 차이]()
+- [Activity와 Fragment의 생명주기에 대해 설명하시오.]()
 - [Data Binding이란?]()
 - [timeout 핸들링 방법]()
 - [iOS와 차이점]()
@@ -193,6 +196,10 @@
 - [AAC의 종류와 각각에 대해 설명하시오]()
 - [Shared Preference 보안 이슈에 대해 설명 및 대처 방법]()
 - [Serializa란 무엇인가? 종류는?]()
+- [백그라운드에서 UI 업데이트 하는 방법]()
+- [ANR이란?]()
+- [Content Provider와 Content Resolver 차이]()
+- [Manifest에 대해 설명]()
 
 </details>
  
