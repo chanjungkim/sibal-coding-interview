@@ -204,7 +204,7 @@
 </details>
  
 <details>
- <summary>Spring 문제</summary>
+ <summary>Git 문제</summary>
 
 </details>
  
