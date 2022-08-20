@@ -4,7 +4,7 @@
 git checkout -b beta-test
 ```
 
-<input type="checkbox" id="vehicle1" name="vehicle1" value="a. A new branch called beta-test will be created and switched to.">
+<input type="checkbox" id="vehicle1" name="vehicle1">a. A new branch called beta-test will be created and switched to.</input>
 
 - [ ] b. The beta-test branch will be checked out of the current commit.
 
