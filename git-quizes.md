@@ -4,9 +4,7 @@
 git checkout -b beta-test
 ```
 
-<summary>
-a. A new branch called beta-test will be created and switched to.
-b. The beta-test branch will be checked out of the current commit.
-c. The beta-test branch will be checked out and deleted.
-d. The beta-test branch will be merged with the master branch
-</summary>
+[ ] a. A new branch called beta-test will be created and switched to.
+[ ] b. The beta-test branch will be checked out of the current commit.
+[ ] c. The beta-test branch will be checked out and deleted.
+[ ] d. The beta-test branch will be merged with the master branch
